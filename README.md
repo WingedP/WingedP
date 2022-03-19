@@ -1,4 +1,4 @@
-🌪️ New portfolio!~
+🌪️ portfolio!~
 https://ash-wingedp.vercel.app
 
 <!---
